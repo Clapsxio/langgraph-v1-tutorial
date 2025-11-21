@@ -42,10 +42,10 @@ source .venv/bin/activate
 
 ```bash
 # pyproject.toml 기반 설치
-uv pip install -e .
+uv sync
 
 # 또는 직접 패키지 설치
-uv pip install langchain langchain-openai langchain-anthropic langchain-community langgraph python-dotenv
+uv add install langchain langchain-openai langchain-anthropic langchain-community langgraph python-dotenv
 ```
 
 ### 4. 환경 변수 설정
